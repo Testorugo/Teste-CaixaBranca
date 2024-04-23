@@ -1,4 +1,13 @@
-# Teste-CaixaBranca
+# Teste de Caixa Branca em Java.
+
+<h2>Descrição:</h2>
+Este repositório inclui um exemplo de implementação em Java para testes de caixa branca, enfocando operações de banco de dados. O programa implementado faz uso de conexões JDBC para acessar um banco de dados MySQL, onde realiza a autenticação de usuários através do login e senha.
+
+<h2>Tecnologias Utilizadas:</h2>
+
+- **Java**: A linguagem de programação utilizada para o desenvolvimento deste exemplo.
+- **MySQL**: O sistema de gerenciamento de banco de dados usado para armazenar dados do usuário.
+- **JDBC**: A interface de programação utilizada para interagir com o banco de dados.
 
 <h2>Erros encontrados no código:</h2>
 <h3> Documentação:</h3>
