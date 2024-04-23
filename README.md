@@ -20,11 +20,11 @@
 
 ![grafo de fluxo](https://github.com/Testorugo/Teste-CaixaBranca/assets/114782204/b08fd0da-a8d2-4e6d-be74-f94616cd0661)
 
-<h3>Os nodos são:
-1. Início
-2. Tentativa de conectar com o banco
-3. Tenta executar a consulta SQL
-4. Verifica o resultado da consulta
+<h3>Os nodos são:<br />
+1. Início<br />
+2. Tentativa de conectar com o banco<br />
+3. Tenta executar a consulta SQL<br />
+4. Verifica o resultado da consulta<br />
 5. Fim</h3>
 
 <h2>Cálculo da Complexidade Ciclomática</h2>
