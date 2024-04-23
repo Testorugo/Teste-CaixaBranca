@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Hugo/Documents/NetBeansProjects/teste-caixa-branca/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Hugo/Documents/NetBeansProjects/teste-caixa-branca/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'teste-caixa-branca 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'teste-caixa-branca 1.0-SNAPSHOT API'
+com.mycompany.teste.caixa.branca
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\src\main\java = 1713898220348
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\allclasses-index.html = 1713898971400
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\allpackages-index.html = 1713898971404
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\copy.svg = 1713898971455
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\element-list = 1713898971345
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\help-doc.html = 1713898971445
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\index-all.html = 1713898971426
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\index.html = 1713898971438
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\jquery-ui.overrides.css = 1713898971484
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\member-search-index.js = 1713898971411
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\module-search-index.js = 1713898971406
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\overview-tree.html = 1713898971387
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\package-search-index.js = 1713898971408
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\script.js = 1713898971452
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\search-page.js = 1713898971463
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\search.html = 1713898971434
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\search.js = 1713898971460
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\stylesheet.css = 1713898971450
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\tag-search-index.js = 1713898971414
+C:\Users\Hugo\Documents\NetBeansProjects\teste-caixa-branca\target\site\apidocs\type-search-index.js = 1713898971410
