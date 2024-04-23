@@ -14,3 +14,5 @@
 <h3>Fechamento de conexões:</h3>
 <p>As conexões com o banco de dados não são fechadas explicitamente após o uso. É importante fechar todas as conexões, instruções e conjuntos de resultados (ResultSet) quando não forem mais necessários para evitar vazamentos de recursos. Isso pode ser feito com um bloco finally ou utilizando o recurso try-with-resources do Java.</p>
 
+[PLANO DE TESTE.xlsx](https://github.com/Testorugo/Teste-CaixaBranca/files/15080986/PLANO.DE.TESTE.xlsx)
+
