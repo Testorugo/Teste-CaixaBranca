@@ -56,6 +56,6 @@ Este repositório inclui um exemplo de implementação em Java para testes de ca
 <h3>Caminho 2:</h3>
 <p>1-2-3-5</p>
 <h3>Caminho 3:</h3>
-<p>1-2-4-2-3-4-5</p>
+<p>1-2-3-4-2-3-4-5</p>
 <h3>Caminho 4:</h3>
-<p>1-2-4-2-3-5</p>
+<p>1-2-3-4-2-3-5</p>
