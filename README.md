@@ -1,7 +1,7 @@
 # Teste-CaixaBranca
 
 <h2>Erros encontrados no código:</h2>
-<h3> Documentação</h3>
+<h3> Documentação:</h3>
 <p>O código não inclui comentários explicativos sobre sua funcionalidade. Comentários ajudariam a entender o propósito das classes, métodos e partes complexas do código. A falta de documentação pode dificultar a manutenção futura.</p>
 <h3>Nomenclatura de variáveis e constantes:</h3>
 <p>As variáveis e constantes não seguem as convenções de nomenclatura padrão do Java. Em Java, é comum usar camelCase para nomes de variáveis e constantes. Por exemplo, em vez de Teste_Caixa_Branca, seria mais adequado TesteCaixaBranca. Nomes mais descritivos também poderiam ser usados para melhorar a compreensão do código.</p>
@@ -16,3 +16,34 @@
 
 [PLANO DE TESTE.xlsx](https://github.com/Testorugo/Teste-CaixaBranca/files/15080986/PLANO.DE.TESTE.xlsx)
 
+<h2>Grafo de Fluxo:</h2>
+
+![grafo de fluxo](https://github.com/Testorugo/Teste-CaixaBranca/assets/114782204/b08fd0da-a8d2-4e6d-be74-f94616cd0661)
+
+<h3>Os nodos são:
+1. Início
+2. Tentativa de conectar com o banco
+3. Tenta executar a consulta SQL
+4. Verifica o resultado da consulta
+5. Fim</h3>
+
+<h2>Cálculo da Complexidade Ciclomática</h2>
+
+<p>V(G) = complexidade ciclomática.</p>
+<p>E = número de arestas no grafo.</p>
+<p>N = número de nós no grafo.</p>
+<p>P = número de componentes conexos (1 para um único grafo).</p>
+
+<h3>V(G)=E−N+2P</h3>
+<h4>V(G)= 6 − 5 + 2(1) = 3</h4>
+
+<h2>Caminhos possiveis no grafo:</h2>
+
+<h3>Caminho 1:</h3>
+<p>1-2-3-4-5</p>
+<h3>Caminho 2:</h3>
+<p>1-2-3-5</p>
+<h3>Caminho 3:</h3>
+<p>1-2-4-2-3-4-5</p>
+<h3>Caminho 4:</h3>
+<p>1-2-4-2-3-5</p>
